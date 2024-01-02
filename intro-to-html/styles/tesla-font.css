@@ -1,0 +1,20 @@
+.model{
+  font-family: Arial;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 20px;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+.order {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 0px;
+  font-family: Montserrat;
+
+
+}
+.deliver {
+  text-decoration: underline;
+
+}
